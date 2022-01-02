@@ -12,4 +12,4 @@
                   (display " is ")
                   (display (integer->roman n))
                   (display " in roman numerals\n")))
-              (iota 12))))
+              (iota 7))))
